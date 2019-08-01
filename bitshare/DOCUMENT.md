@@ -1,5 +1,5 @@
 
-[来到BitShares文档](https://docs.bitshares.org/)
+[欢迎来到BitShares文档](https://docs.bitshares.org/)
 
 欢迎访问BitShares Blockchain的文档门户。 此页面上的内容由BitShares社区管理，并不断在完善。
 
